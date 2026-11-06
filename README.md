@@ -1,10 +1,9 @@
 # modispractice
 Practicing for NASA's hackathon!
 
-Harmonization of MODIS and VIIRS Hot Spots
-Idea: A web application that would record burning activity for example wildfires and agricultural burns on Earth
-Website
-Data it would track: Satellite Senors’s data, locations with the most burning activity, the amount of emergencies a location has, critical periods that would affect a burn, scientists' opinions.
+The prompt we chose was "Harmonization of MODIS and VIIRS Hot Spots."
+Our idea is to create a web application that records burning activity, such as wildfires and agricultural burns on Earth, so that scientists can analyze this data. 
+This website would gather data from Satellite Sensors to track locations with the most burning activity, the amount of emergencies a specific location has, critical periods during burn events. This website could also have a section where scientists can input their opinions.
 Moderate Resolution Imaging Spectroradiometer
-Problem: How to connect to Satellite Information?
+However, one problem remains: how do we connect to Satellite Information in order to get accurate information for our project to analyze and record?
 
